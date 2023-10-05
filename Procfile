@@ -1,1 +1,1 @@
-python3: /usr/bin/ Chatgpt
+python3: /usr/bin/ bot
