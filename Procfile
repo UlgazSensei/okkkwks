@@ -1,1 +1,1 @@
-worker: -m bot.py
+python3: /usr/bin/ Chatgpt
